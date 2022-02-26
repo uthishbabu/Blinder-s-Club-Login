@@ -87,5 +87,24 @@ button{
 
 p{
     font-size: x-small;
-    display: none;
+    
+}
+.spot{
+    display: block;
+    color: rgb(248, 0, 0);
+    font-size: small;
+    font-weight: bold;
+}
+.pw_err{
+    display: block;
+    color:rgb(255, 0, 0);
+    font-size: small;
+    font-weight: bold;
+}
+
+.ps_err{
+    display: block;
+    color:rgb(55, 252, 6);
+    font-size: small;
+    font-weight: bold;
 }
